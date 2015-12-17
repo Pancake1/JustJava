@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mMtthew Simplement Java</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="name">Tapez Votre Nom Ici</string>
+    <string name="whipped_cream">Crème Fouettée</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="cinnamon">Cannelle</string>
+    <string name="french_vanilla">Vanillan Français</string>
+    <string name="marsh_mallow">Guimauve</string>
+    <string name="toppings">Garnitures</string>
+    <string name="quantity">Quantité</string>
+    <string name="order">Commande</string>
+
+</resources>

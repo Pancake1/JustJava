@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Matthew Solo Java</string>
+    <string name="action_settings">ajustes</string>
+    <string name="name">Escribe Tu Nombre Aquí</string>
+    <string name="whipped_cream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="cinnamon">Canela</string>
+    <string name="french_vanilla">Vainilla Francés</string>
+    <string name="marsh_mallow">Bombón</string>
+    <string name="toppings">Coberturas</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order">Orden</string>
+
+</resources>
